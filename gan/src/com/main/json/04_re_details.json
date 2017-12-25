@@ -1,0 +1,29 @@
+[
+	{
+		"id":"1",
+		"img":"./src/img/01_shopping/re_details_01.jpg",
+		"title":"Metabolic夜间瘦 抑制脂肪调理肠道 60袋(特惠价)",
+		"newmoney":"213.00",
+		"oldmoney":"498.00",
+		"gmrs":"88",
+		"type":"日本直邮"
+	},
+	{
+		"id":"2",
+		"img":"./src/img/01_shopping/re_details_03.jpg",
+		"title":"Metabolic夜间瘦 抑制脂肪调理肠道 60袋(特惠价)",
+		"newmoney":"213.00",
+		"oldmoney":"498.00",
+		"gmrs":"88",
+		"type":"香港直邮"
+	},
+	{
+		"id":"3",
+		"img":"./src/img/01_shopping/re_details_03.jpg",
+		"title":"Metabolic夜间瘦 抑制脂肪调理肠道 60袋(特惠价)",
+		"newmoney":"213.00",
+		"oldmoney":"498.00",
+		"gmrs":"88",
+		"type":"日本直邮"
+	}
+]

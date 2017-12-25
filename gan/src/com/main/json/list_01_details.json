@@ -1,0 +1,32 @@
+[
+	{
+		"id":"1",
+		"img":"./src/img/01_shopping/shop07.jpg",
+		"title":"Metabolic酵母x酵素精华 减肥排毒60粒",
+		"newmoney":"219.00",
+		"oldmoney":"596.00",
+		"gmrs":"88",
+		"type":"保税区",
+		"freight":"25"
+	},
+	{
+		"id":"2",
+		"img":"./src/img/01_shopping/shop02.jpg",
+		"title":"Metabolic酵母x酵素精华 减肥排毒60粒",
+		"newmoney":"319.00",
+		"oldmoney":"695.00",
+		"gmrs":"218",
+		"type":"保税区",
+		"freight":"25"
+	},
+	{
+		"id":"3",
+		"img":"./src/img/01_shopping/shop02.jpg",
+		"title":"Metabolic酵母x酵素精华 减肥排毒60粒",
+		"newmoney":"279.00",
+		"oldmoney":"638.00",
+		"gmrs":"318",
+		"type":"保税区",
+		"freight":"25"
+	}
+]

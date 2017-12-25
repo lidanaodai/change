@@ -1,0 +1,22 @@
+[
+	{
+		"id":"1",
+		"img1":"./src/img/01_shopping/suit_01.jpg",
+		"img2":"./src/img/01_shopping/suit_02.jpg",
+		"img3":"./src/img/01_shopping/suit_03.jpg",
+		"title":"日本2H2D 黑玛卡 强肾 滋补 60粒",
+		"newmoney":"213.00",
+		"oldmoney":"498.00",
+		"type":"保税区"
+	},
+	{
+		"id":"2",
+		"img1":"./src/img/01_shopping/suit_06.jpg",
+		"img2":"./src/img/01_shopping/suit_04.jpg",
+		"img3":"./src/img/01_shopping/suit_05.jpg",
+		"title":"日本2H2D 黑玛卡 强肾 滋补 60粒",
+		"newmoney":"213.00",
+		"oldmoney":"498.00",
+		"type":"保税区"
+	}
+]
